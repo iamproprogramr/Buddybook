@@ -1,6 +1,4 @@
-Sure, here's the updated `README.md` with a section for output:
 
-```markdown
 # BuddyBook
 
 BuddyBook is a simple and intuitive contact book application created using Python and the Tkinter library. It allows users to add, delete, and manage contacts, as well as open WhatsApp directly to message a selected contact.
